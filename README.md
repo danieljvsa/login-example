@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Desafio 4" src="/assets/pannel.png" />
+    <img alt="Desafio 4" src="/assets/pannel.svg" />
 </h1>
 
 <br>
