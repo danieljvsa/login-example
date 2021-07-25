@@ -7,12 +7,48 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/styles/">
+    <link rel="stylesheet" href="/styles/styles.css">
     <title>Desafio 4</title>
 </head>
 <body>
     <div id="container">
-
+        <div class="home-img">
+            <img src="/assets/pannel.svg" alt="Home Pannel">
+        </div>
+        <div class="login-pannel">
+            <form>
+                <div class="form-header">
+                    <span>Bem vindo de volta</span>
+                    <h2>Faça login na sua conta</h2>
+                </div>
+                <label class="input">
+                    Email <br>
+                    <input type="email" placeholder="codelandia@gmail.com"><br>
+                </label>
+                <label class="input">
+                    Senha <br>
+                    <input type="password" placeholder="*********">
+                </label>
+                <div class="user-options">
+                    <label class="checkbox">
+                        <input type="checkbox">
+                        <label></label>
+                        Lembre de mim
+                    </label>
+                    <span><a href="#">Esqueceu sua senha?</a></span>
+                </div>
+                <div class="button-con">
+                    <button type="submit" class="submit">Entrar</button>
+                    <button class="login-google">
+                        <img src="/assets/google.svg" alt="Google">
+                        Ou faça login com o Google 
+                    </button>
+                </div>
+                <div class="footer">
+                    <span>Não tem uma conta?<a href="#"> Cadastre-se</a></span>
+                </div>
+            </form>
+        </div>
     </div>
 </body>
 </html>
