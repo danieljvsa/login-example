@@ -256,3 +256,12 @@ input:focus {
     }
 }
   
+@media (max-width: 768px) {
+    .home-img{
+        display: none !important;
+    }
+
+    form{
+        margin: 213px 3rem 3rem 3rem !important;
+    }
+}
