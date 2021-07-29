@@ -39,7 +39,7 @@ O 4º desafio feito pela Codelândia, destina-se a dar o próximo passo em rela�
 
 Este é um projeto desenvolvido durante os dias 18 a 23 de Julho de 2021.
 
-Site disponivel na [Demo](https://infallible-borg-48af82.netlify.app/)
+Site disponivel na [Demo](https://elegant-pike-73a67d.netlify.app)
 
 ## 🔖 Layout
 
